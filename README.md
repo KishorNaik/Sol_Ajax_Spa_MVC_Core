@@ -71,4 +71,4 @@ Apply layout page by using **ApplyLayoutAsync()** extension method in the **_Vie
 #### We convert whole Asp.net core MVC solution into Single Page Application using this library. 
 
 ### ScreenShot
-(https://ibb.co/PrMmrZZ)
+<a href="https://ibb.co/PrMmrZZ"><img src="https://i.ibb.co/2FSnF77/Rec-002.gif" alt="Rec-002" border="0" /></a>
