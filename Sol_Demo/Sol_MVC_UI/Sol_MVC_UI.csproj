@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\AjaxSpaMvcCore\AjaxSpaMvcCore.csproj" />
+    <PackageReference Include="AjaxSpaMvcCore" Version="1.0.1" />
   </ItemGroup>
 
 </Project>

@@ -10,7 +10,11 @@
     <RepositoryUrl>https://github.com/KishorNaik/Sol_Ajax_Spa_MVC_Core</RepositoryUrl>
     <RepositoryType>Github</RepositoryType>
     <PackageTags>ajax,spa,mvccore</PackageTags>
-    <GeneratePackageOnBuild>true</GeneratePackageOnBuild> 
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Better approach to turn an ASP.NET Core Application Into Single Page Application using Ajax methodology. The main motto is to reduce developer's effort while working on creating a SPA and enhancing the Web app performance both on server and client side.</Description>
+    <AssemblyVersion>1.0.1.0</AssemblyVersion>
+    <FileVersion>1.0.1.0</FileVersion>
+    <Version>1.0.1</Version> 
   </PropertyGroup>
 
   <ItemGroup>
