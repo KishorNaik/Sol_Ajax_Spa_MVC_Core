@@ -5,7 +5,12 @@
     <AddRazorSupportForMvc>true</AddRazorSupportForMvc>
     <GenerateEmbeddedFilesManifest>true</GenerateEmbeddedFilesManifest>
     <Authors>Kishor Naik</Authors>
-    <Company>Kishor Naik</Company> 
+    <Company>Kishor Naik</Company>
+    <PackageProjectUrl>https://github.com/KishorNaik/Sol_Ajax_Spa_MVC_Core</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/KishorNaik/Sol_Ajax_Spa_MVC_Core</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>ajax,spa,mvccore</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild> 
   </PropertyGroup>
 
   <ItemGroup>
