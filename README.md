@@ -68,5 +68,5 @@ Apply layout page by using **ApplyLayoutAsync()** extension method in the **_Vie
 ```
 
 #### Build the solution and launch web app on browser. You will get notice that your child views not refresh in the browser.
-#### We convert whole Asp.net core MVC solution into Single Page Application using this library. 
+#### We convert whole Asp.net core MVC solution into Single Page Application by using this library. 
 
