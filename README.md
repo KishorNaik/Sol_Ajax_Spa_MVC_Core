@@ -10,7 +10,7 @@ enhancing the Web app performance both on server and client side.
 * Developer can also use other javascript framework side by side.
 
 #### Note
-This library will apply on Asp.net core 3.1 solution.
+This library will apply on Asp.net core 3.1 to 6.0 solution.
 
 ## Setup
 
