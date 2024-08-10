@@ -1,3 +1,12 @@
+# 📢 Important Notice: This Repository Is Archived
+Thank you for your interest in this project! As of 10th Auguest 2024, we have decided to archive this repository. What does this mean?
+
+**No New Development:** We won’t be actively developing new features or fixing issues.
+**Read-Only:** The repository is now read-only. You can still clone it, but no further changes will be accepted.
+**Alternative Solutions:** If you’re looking for alternative solutions or similar projects, consider exploring the following link
+https://medium.com/@yiyisun/making-asp-net-core-mvc-apps-into-single-page-apps-using-apprun-e1ae4dbc60da
+
+
 # Single Page application in Asp.net core (Spa MVC Core)
 Better approach to turn an ASP.NET Core Application Into Single Page Application using Ajax methodology.
 The main motto is to reduce developer's effort while working on creating a SPA and 
