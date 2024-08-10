@@ -4,7 +4,7 @@ Thank you for your interest in this project! As of 10th August 2024, we have dec
 - **No New Development:** We won't be actively developing new features or fixing issues.
 - **Read-Only:** The repository is now read-only. You can still clone it, but no further changes will be accepted.
 - **Alternative Solutions:** If you're looking for alternative solutions or similar projects, consider exploring the following link:
-Medium Article: Making ASP.NET Core MVC Apps into Single-Page Apps using AppRun
+Medium Article: [Making ASP.NET Core MVC Apps into Single-Page Apps using AppRun](https://medium.com/@yiyisun/making-asp-net-core-mvc-apps-into-single-page-apps-using-apprun-e1ae4dbc60da)
 
 
 # Single Page application in Asp.net core (Spa MVC Core)
